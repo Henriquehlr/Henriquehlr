@@ -1,7 +1,6 @@
 ## Olá! Eu sou Henrique Lucas
 
 - 🔭 Hoje trabalho com mobile e front-end
-- 🌱 Estudando flutter 
 - 📫 Contate-me no emai: henriquedeev@gmail.com
 
 <div align="center">
