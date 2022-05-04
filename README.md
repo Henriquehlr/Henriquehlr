@@ -1,6 +1,6 @@
 ## Olá! Eu sou Henrique Lucas
 
-- 🔭 Hoje trabalho com mobile e front-end
+- 🔭 Hoje trabalho como desenvolvedor mobile e front-end
 - 📫 Contate-me no emai: henriquedeev@gmail.com
 
 <div align="center">
@@ -18,7 +18,7 @@
   <img align="center" alt="Henr-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Henr-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Henr-Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Henr-Csharp" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Henr-Csharp" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
   
 ##
