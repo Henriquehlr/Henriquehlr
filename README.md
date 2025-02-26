@@ -1,7 +1,7 @@
 ## Olá! Eu sou Henrique Lucas
 
 - 🔭 Hoje trabalho como desenvolvedor mobile e front-end
-- 📫 Contate-me no emai: henriquedeev@gmail.com
+- 📫 Contate-me no email: henriquedeev@gmail.com.
 
 <div align="center">
   <a href="https://github.com/Henriquehlr">
